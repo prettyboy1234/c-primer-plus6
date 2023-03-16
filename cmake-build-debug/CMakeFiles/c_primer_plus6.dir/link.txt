@@ -1,0 +1,3 @@
+"D:\Clion\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\c_primer_plus6.dir/objects.a
+D:\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe cr CMakeFiles\c_primer_plus6.dir/objects.a @CMakeFiles\c_primer_plus6.dir\objects1.rsp
+D:\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\c_primer_plus6.dir/objects.a -Wl,--no-whole-archive -o c_primer_plus6.exe -Wl,--out-implib,libc_primer_plus6.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\c_primer_plus6.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+D:/Docs/C6/c-primer-plus6/cmake-build-debug/CMakeFiles/c_primer_plus6.dir
+D:/Docs/C6/c-primer-plus6/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Docs/C6/c-primer-plus6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
